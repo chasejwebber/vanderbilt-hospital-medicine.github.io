@@ -6,7 +6,7 @@
 
 # VHMBook
 
-This repository has the contents of the Vanderbilt Hospital Medicine Book (AOD Support). 
+This repository has the contents of the Vanderbilt Hospital Medicine Book (AODChat and other forthcoming innovations). 
 
 
 ## contributing
