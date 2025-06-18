@@ -4,9 +4,9 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/vanderbilt-internal-medicine/vimbook)
 
-# VIMbook
+# VHMBook
 
-This repository has the contents of the Vanderbilt Internal Medicine Handbook (VIMBook).
+This repository has the contents of the Vanderbilt Hospital Medicine Book (AOD Support). 
 
 
 ## contributing
@@ -16,7 +16,7 @@ This repository has the contents of the Vanderbilt Internal Medicine Handbook (V
 
 Create an account on [GitHub](https://github.com/).
 It's free.
-Then shoot an email with your username to one of the maintainers of the vimbook (e.g. beau.hilton@vumc.org)
+Then shoot an email with your username to one of the maintainers of the vhmbook (e.g. chase.j.webber@vumc.org or matthew.sweeney@vumc.org)
 to be added to the organization.
 
 
