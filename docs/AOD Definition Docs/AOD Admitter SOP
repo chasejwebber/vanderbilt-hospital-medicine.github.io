@@ -52,3 +52,22 @@ If APP admitter has received 6 total admissions and no teaching spots available,
 Next admission to PaCT Staging Attendings if they have not yet received an admission
 Next admission to Obs physician if they have received <6 total admissions
 Additional bolus patients discuss with the AOD
+
+| Team | Division | Provider | Cap | Admitting | Details |
+|---|---|---|---|---|---|
+| Morgan 1-6 | DGIM | Teaching | 10 | 6:30 - 5:30 pm | MORGAN Teams admit each day. USE ALL DAYTIME MORGAN SPOTS |
+| Rogers Hep | GI | Teaching | 10 | 24/7 | Prefer transplant patients/candidates only |
+| Rogers Pulm | Pulm/CC | Teaching | 10 | 24/7 | Any pulm-oriented patients, prefer ILD |
+| ALDS | Pulm/CC | APP | None | 24/7 | All lung transplant and pulmonary hypertension (on prostaglandin infusions), even those not followed at VUMC |
+| Rogers ID | ID | Teaching | 10 | 24/7 | Any ID-oriented patients/prefers HIV |
+| Rogers Renal | Renal | Teaching | 10 | 24/7 | Prefer transplant patients only |
+| Onc A | Heme/Onc | Teaching | 10 | 24/7 | Solid onc patients followed by VUMC |
+| Onc B | Heme/Onc | Teaching | 10 | 24/7 | Solid onc patients followed by VUMC |
+| Onc C | Heme/Onc | APP | 7 | 24/7 | Solid onc patients followed by VUMC |
+| Brittingham A | Heme/Onc | Teaching | 8 | 24/7 | Leukemia/Lymphoma patients followed by VUMC or AML pts |
+| Brittingham B | Heme/Onc | Teaching | 8 | 24/7 | Leukemia/Lymphoma patients followed by VUMC or AML pts |
+| Browning | Heme/Onc | APP | 15 | 24/7 | Leukemia/Lymphoma patients followed by VUMC or AML pts |
+| BMT | Heme/Onc | APP | None | 24/7 | BMT patients (sometimes patients w/ remote history will come to Riven) |
+| Sickle Cell | Heme/Onc | APP | None | 24/7 | Sickle Cell patients w/ VOC without fever, complications, or concern for acute chest |
+| Page-Campbell D/E | Cardiology | APP | 16 total | 24/7 | Assigned by Cardiology Triage - medically complex cardiac patients, or cardiac-adjacent conditions like PE, HTN urgency, volume overload |
+| Page-Campbell F | Cardiology | Attg-only | 12 | 24/7 | Can be assigned Riven overflow at 4pm/6am if not capped |
